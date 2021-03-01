@@ -4,4 +4,4 @@ This is a repository containing all of Sunny Yan's portfolio of Data Science Pro
 
 ## Contents
 
-[*Analyzing NYC High Schools SAT Scores*](https://github.com/sunnyyan97/NYC-High-Schools)
+[**Analyzing NYC High Schools Scores**](https://github.com/sunnyyan97/NYC-High-Schools)
