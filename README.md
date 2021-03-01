@@ -2,7 +2,7 @@
 
 This is a repository containing Sunny Yan's portfolio of Data Science Projects. Projects are presented in Jupyter Notebooks using Python and SQL. Many of the project prompts are from the Data Engineering and Data Scientist Paths in [Dataquest.](https://www.dataquest.io/)
 
-## Contents
+## Projects
 
 [**Analyzing NYC High Schools Scores**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Analyzing%20NYC%20High%20School%20Scores.ipynb)
 
