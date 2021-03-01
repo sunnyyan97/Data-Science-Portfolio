@@ -12,6 +12,6 @@ In this project, I explored relationships between SAT Scores and NYC Demographic
 
 For this project I used SQL to answer business questions about a record store, with the SQLite module within Python. Using the Chinook database, I defined functions in order to run queries and commands and wrote several advanced SQL queries, including subqueries, CTEs and multiple joins.
 
-[**Analyzing Lottery Probabilities**]
+[**Analyzing Lottery Probabilities**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Analyzing%20Lottery%20Probabilities.ipynb)
 
 In this project, I used Python to analyze different probabilities of winning the lottery using historical data from the national 6/49 lottery in Canada. Questions answered include: What is the probability of winning the lottery with one ticket? 40 tickets? And what is the probability of getting 5 out of 6 winning numbers?
