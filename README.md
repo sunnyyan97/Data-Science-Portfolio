@@ -19,3 +19,7 @@ In this project, I used Python to analyze different probabilities of winning the
 [**Exploring Posts on Hacker News**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Exploring%20Posts%20on%20Hacker%20News.ipynb)
 
 For this project I used Python to analyze posts from Hacker News, a computer science and entrepreneurship social website founded by Y Combinator. The purpose of this project was to discover which types of posts get the highest amount of engagement and which hours are the best times to post.
+
+[**Profitable App Profiles**]
+
+In this project I used Python to analyze a dataset of Android and iOS mobile apps for sale on their respective app store markets. I recommend the type of app that should be built on each platform that would have the highest potential profitability. To do this I cleaned the data by removing duplicate and non-English apps, and then created frequency tables to easily visualize the data. 
