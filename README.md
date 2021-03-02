@@ -23,3 +23,7 @@ For this project I used Python to analyze posts from Hacker News, a computer sci
 [**Profitable App Profiles**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Profitable%20App%20Profiles.ipynb)
 
 In this project I used Python to analyze a dataset of Android and iOS mobile apps for sale on their respective app store markets. I recommend the type of app that should be built on each platform that would have the highest potential profitability. To do this I cleaned the data by removing duplicate and non-English apps, and then created frequency tables to easily visualize the data. 
+
+[**Investigating Fandango Movie Ratings**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Investigating%20Fandango%20Movie%20Ratings.ipynb)
+
+In this project, I investigate the effect of data journalist Walt Mickey’s [claim](https://fivethirtyeight.com/features/fandango-movies-ratings/) that Fandango artificially inflates movie ratings. The goal is to see whether or not Fandango is still inflating their ratings post-publication of the article. I use Python to analyze two datasets containing review score data before and after the article was published. I then created data visualizations of summary statistics to compare the datasets. 
