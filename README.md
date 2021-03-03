@@ -20,10 +20,14 @@ In this project, I used Python to analyze different probabilities of winning the
 
 For this project I used Python to analyze posts from Hacker News, a computer science and entrepreneurship social website founded by Y Combinator. The purpose of this project was to discover which types of posts get the highest amount of engagement and which hours are the best times to post.
 
-[**Profitable App Profiles**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Profitable%20App%20Profiles.ipynb)
+[**Finding Best Markets to Advertise In**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Finding%20Best%20Markets%20to%20Advertise%20In.ipynb)
 
-In this project I used Python to analyze a dataset of Android and iOS mobile apps for sale on their respective app store markets. I recommend the type of app that should be built on each platform that would have the highest potential profitability. To do this I cleaned the data by removing duplicate and non-English apps, and then created frequency tables to easily visualize the data. 
+In this project, I pretend to be a data analyst at an e-learning company looking to promote and advertise their product. I use Python to analyze and clean a dataset survey of new coders, removing outliers and creating data visualizations of statistic fundamentals to find the two best markets to advertise in. 
 
 [**Investigating Fandango Movie Ratings**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Investigating%20Fandango%20Movie%20Ratings.ipynb)
 
 In this project, I investigate the effect of FiveThirtyEight's [claim](https://fivethirtyeight.com/features/fandango-movies-ratings/) that Fandango artificially inflates movie ratings. The goal is to see if Fandango is still inflating their ratings post-publication of the article. I use Python to analyze two datasets containing review score data before and after the article was published. I then created data visualizations of summary statistics to compare the datasets. 
+
+[**Profitable App Profiles**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Profitable%20App%20Profiles.ipynb)
+
+In this project I used Python to analyze a dataset of Android and iOS mobile apps for sale on their respective app store markets. I recommend the type of app that should be built on each platform that would have the highest potential profitability. To do this I cleaned the data by removing duplicate and non-English apps, and then created frequency tables to easily visualize the data. 
