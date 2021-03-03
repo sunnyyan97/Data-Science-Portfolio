@@ -20,7 +20,7 @@ In this project, I used Python to analyze different probabilities of winning the
 
 For this project I used Python to analyze posts from Hacker News, a computer science and entrepreneurship social website founded by Y Combinator. The purpose of this project was to discover which types of posts get the highest amount of engagement and which hours are the best times to post.
 
-[**Finding Best Markets to Advertise In**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Finding%20Best%20Markets%20to%20Advertise%20In.ipynb)
+[**Finding Best Markets to Advertise In**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Finding%20Best%20Markets%20to%20Advertise.ipynb)
 
 In this project, I pretend to be a data analyst at an e-learning company looking to promote and advertise their product. I use Python to analyze and clean a dataset survey of new coders, removing outliers and creating data visualizations of statistic fundamentals to find the two best markets to advertise in. 
 
