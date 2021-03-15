@@ -4,6 +4,10 @@ This is a repository containing Sunny Yan's portfolio of Data Science Projects. 
 
 ## Projects
 
+[**Building a Database for Crime Reports**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Database%20for%20Crime%20Reports.ipynb)
+
+In this project, I built a Postgres database for storing data related to crimes in Boston. Within this database, I create a schema and tables, as well as users and groups to grant permissions. I also optimize each column of this database to improve run times and storage needed.
+
 [**Analyzing NYC High Schools Scores**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Analyzing%20NYC%20High%20School%20Scores.ipynb)
 
 In this project, I explored relationships between SAT Scores and NYC Demographic Factors in New York City Public High Schools. I used Pandas to read in the various datasets, cleaned them and then combined the datasets into one file for easy analysis. Then I created a few scatter plots to easily visualize the relationships between SAT Scores and various Demographic Factors
