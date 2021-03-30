@@ -4,7 +4,7 @@ This is a repository containing Sunny Yan's portfolio of Data Science Projects. 
 
 ## Projects
 
-[**Building a Database for Crime Reports**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Database%20for%20Crime%20Reports.ipynb)
+[**Building a Postgres Database for Crime Reports**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Database%20for%20Crime%20Reports.ipynb)
 
 In this project, I built a Postgres database for storing data related to crimes in Boston. Within this database, I create a schema and tables, as well as users and groups to grant permissions. I also optimize each column of this database to improve run times and storage needed.
 
