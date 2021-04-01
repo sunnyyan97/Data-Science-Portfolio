@@ -12,7 +12,7 @@ In this project, I built a Postgres database for storing data related to crimes 
 
 In this project, I explored relationships between SAT Scores and NYC Demographic Factors in New York City Public High Schools. I used Pandas to read in the various datasets, cleaned them and then combined the datasets into one file for easy analysis. Then I created a few scatter plots to easily visualize the relationships between SAT Scores and various Demographic Factors
 
-[**Answering Business Questions with SQL**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Answering%20Business%20Questions%20with%20SQL.ipynb)
+[**Answering Business Questions with SQL**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Answering%20Business%20Questions%20with%20SQL%20(1).ipynb)
 
 For this project I used SQL to answer business questions about a record store, with the SQLite module within Python. Using the Chinook database, I defined functions in order to run queries and commands and wrote several advanced SQL queries, including subqueries, CTEs and multiple joins.
 
