@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Data Science Portfolio
 
 This is a repository containing Sunny Yan's portfolio of Data Science Projects. Projects are presented in Jupyter Notebooks using Python and SQL. Many of the project prompts are from the Data Engineering and Data Analyst Paths in [Dataquest.](https://www.dataquest.io/)
 
