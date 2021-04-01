@@ -16,7 +16,7 @@ In this project, I explored relationships between SAT Scores and NYC Demographic
 
 For this project I used SQL to answer business questions about a record store, with the SQLite module within Python. Using the Chinook database, I defined functions in order to run queries and commands and wrote several advanced SQL queries, including subqueries, CTEs and multiple joins.
 
-[**CIA Factbook Analysis with SQL**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/CIA%20Factbook%20Analysis%20with%20SQL.ipynb)
+[**CIA Factbook Analysis with SQL**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/CIA%20Factbook%20Analysis%20with%20SQL%20(1).ipynb)
 
 In this project, I query a SQLite database in order to analyze CIA factbook data about countries in the world.
 
