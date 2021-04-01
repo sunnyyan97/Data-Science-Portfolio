@@ -18,7 +18,7 @@ For this project I used SQL to answer business questions about a record store, w
 
 [**CIA Factbook Analysis with SQL**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/CIA%20Factbook%20Analysis%20with%20SQL.ipynb)
 
-In this project, I query a SQLite database with a Jupyter Notebook in order to analyze CIA factbook data about countries in the world.
+In this project, I query a SQLite database in order to analyze CIA factbook data about countries in the world.
 
 [**Analyzing Lottery Probabilities**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Analyzing%20Lottery%20Probabilities.ipynb)
 
