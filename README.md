@@ -18,7 +18,7 @@ For this project I used SQL to answer business questions about a record store, w
 
 [**CIA Factbook Analysis with SQL**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/CIA%20Factbook%20Analysis%20with%20SQL%20(1).ipynb)
 
-In this project, I query a SQLite database in order to analyze CIA factbook data about countries in the world. SQL queries revealed that Bangladesh is the most densely populated country in the world according to the CIA data.
+In this project, I query a SQLite database in order to analyze CIA factbook data about countries in the world. Discovered that according to the CIA data, Bangladesh is the most densely populated country in the world.
 
 [**Analyzing Lottery Probabilities**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Analyzing%20Lottery%20Probabilities.ipynb)
 
