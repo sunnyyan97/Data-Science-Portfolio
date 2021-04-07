@@ -14,7 +14,7 @@ In this project, I explored relationships between SAT Scores and Demographic Fac
 
 [**Answering Business Questions with SQL**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/Answering%20Business%20Questions%20with%20SQL%20(1).ipynb)
 
-For this project I used SQL to answer business questions about a record store, with the SQLite module within Python. Using the Chinook database, I defined functions in order to run queries and commands and wrote several advanced SQL queries, including subqueries, CTEs and multiple joins.
+For this project I used SQL to answer business questions about a record store, with the SQLite module within Python. Using the Chinook sample database, I defined functions in order to run queries and commands and wrote several advanced SQL queries, including subqueries, CTEs and multiple joins. Discovered that records in the rock music genre accounted for 53.37% of total sales and the pop genre only accounted for 2.09%.
 
 [**CIA Factbook Analysis with SQL**](https://github.com/sunnyyan97/Data-Science-Portfolio/blob/main/CIA%20Factbook%20Analysis%20with%20SQL%20(1).ipynb)
 
